@@ -2,7 +2,7 @@
 
 ### Descrição
 
-Este projeto faz parte de um desafio promovido pela Plataforma Dio, em parceria com o Santander, que visa explorar a criação de um ataque de phishing como estudo sobre cibersegurança. O objetivo é reproduzir a configuração de um phishing utilizando o Social-Engineer Toolkit (SET) no Kali Linux.
+Este projeto faz parte de um desafio promovido pela plataforma Digital Innovation One, em parceria com o Santander, que visa explorar a criação de um ataque de phishing como estudo sobre cibersegurança. O objetivo é reproduzir a configuração de um phishing utilizando o Social-Engineer Toolkit (SET) no Kali Linux.
 
 ### Ferramentas Utilizadas
 
